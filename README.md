@@ -11,8 +11,11 @@ Following Jupyter notebooks are provided publicly:
 | `Image_Matching_DEEP_DETECT.ipynb` | Step by step code for matching images using DeepDetect.                     |
 | `Image_Matching_Traditional.ipynb` | Step by step code for matching images using traditional keypoint detectors. |
 
+## Note:
+We provide only a few images from the Training and Validation sets used in our work due to storage limitations. However, the provided samples are sufficient to give users a clear understanding of the dataset.
+
 ## Citation:
-If you find our code helpful, please cite following paper:
+If you find our repository helpful, please cite the following paper:
 
 ```bibtex
 @article{tareen2025deepdetect,
