@@ -1,6 +1,6 @@
 # DeepDetect: Learning All-in-One Dense Keypoints
 
-This repository contains the code used in the paper **DeepDetect: Learning All-in-One Dense Keypoints** — DeepDetect is an intelligent, adaptable, all-in-one, dense keypoint detector that uses deep learning
+This repository contains the code used in the paper: **DeepDetect: Learning All-in-One Dense Keypoints** — DeepDetect is an intelligent, adaptable, all-in-one, dense keypoint detector that uses deep learning
 to learn the strengths of 7 strong keypoint detectors (SIFT, ORB, BRISK, FAST, AGAST, Harris Corner Detector, and Shi-Tomasi Corners) and 2 well-known edge detectors (Canny and Sobel). It provides highly dense and semantically meaningful keypoints, demonstrating robustness to poor visibility and brightness, low contrast, and complex scenes, without requiring manual tuning.
 
 Following files are available in the repository:
@@ -23,6 +23,6 @@ If you find our repository helpful, please cite the following paper:
 @article{tareen2025deepdetect,
   title={DeepDetect: Learning All-in-One Dense Keypoints},
   author={Tareen, Shaharyar Ahmed Khan and Tareen, Filza Khan},
-  journal={arXiv preprint arXiv:2510.XXXXX},
+  journal={arXiv preprint arXiv:2510.17422},
   year={2025}
 }
