@@ -1,7 +1,7 @@
 # DeepDetect: Learning All-in-One Dense Keypoints
 
 This repository contains the code used in the paper: **DeepDetect: Learning All-in-One Dense Keypoints** — DeepDetect is an intelligent, adaptable, all-in-one, dense keypoint detector that uses deep learning
-to learn the strengths of 7 strong keypoint detectors (SIFT, ORB, BRISK, FAST, AGAST, Harris Corner Detector, and Shi-Tomasi Corners) and 2 well-known edge detectors (Canny and Sobel). It provides highly dense and semantically meaningful keypoints, demonstrating robustness to poor visibility and brightness, low contrast, and complex scenes, without requiring manual tuning.
+to learn the strengths of 7 strong keypoint detectors (SIFT, ORB, BRISK, FAST, AGAST, Harris Corner Detector, and Shi-Tomasi Corners) and 2 well-known edge detectors (Canny and Sobel). It provides highly dense and semantically meaningful keypoints, demonstrating robustness to poor visibility and brightness, low contrast, and complex scenes, without requiring manual tuning. It also outperforms classical detectors in dense 3D reconstruction (providing up to 842,045 voxels), even when their extremely low thresholds are used.
 
 For clarity and reproducibility, the **Image Matching** and **3D Reconstruction** pipelines are presented step-by-step through Jupyter notebooks.
 
