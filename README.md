@@ -26,9 +26,11 @@ We provide only a few images from the Training and Validation sets used in our w
 If you find our repository helpful, please cite the following paper:
 
 ```bibtex
-@article{tareen2025deepdetect,
+@inproceedings{tareen2026deepdetect,
   title={DeepDetect: Learning All-in-One Dense Keypoints},
   author={Tareen, Shaharyar Ahmed Khan and Tareen, Filza Khan and Yuan, Xiaojing},
-  journal={arXiv preprint arXiv:2510.17422},
-  year={2025}
+  booktitle={2026 IEEE International Conference on AI and Data Analytics (ICAD)},
+  pages={1--8},
+  year={2026},
+  organization={IEEE}
 }
